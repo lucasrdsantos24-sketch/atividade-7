@@ -1,0 +1,23 @@
+AUTH
+ ├── controllers
+ ├── services
+ ├── repositories
+ └── entities
+
+ORDERS
+ ├── controllers
+ ├── services
+ ├── repositories
+ └── entities
+
+PRODUCTS
+ ├── controllers
+ ├── services
+ ├── repositories
+ └── entities
+
+PAYMENTS
+ ├── controllers
+ ├── services
+ ├── repositories
+ └── entities
