@@ -1,0 +1,5 @@
+1. Criar módulo de autenticação
+2. Separar camada de services
+3. Implementar repository pattern
+4. Criar middleware global
+5. Refatorar controllers
